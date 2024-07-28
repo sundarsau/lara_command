@@ -1,7 +1,7 @@
-# Laravel custom command to run controller method from command line
+# Create Laravel custom command to run controller method from the command line
 
-This Laravel application is to implement Laravel custom command and runs a controller method from the command line using the custom command. I created this project in Laravel 10. It creates a Laravel command and from the command I am calling a controller method to execute. Just for example, the controller method creates a row in a custom table and when our custom command is executed using php artisan from the terminal, the controller method gets executed and a row is inserted in the table.
-A controller, a model, a command and a migration for a new table. No front end.
+This Laravel application is to implement Laravel custom command and runs a controller method from the command line using the custom command. I created this project in Laravel 10. It creates a Laravel command and from the command I am calling a controller method to execute. Just for example, the controller method creates a row in a custom table and when our custom command is executed using php artisan from the terminal, the controller method gets executed and a row is inserted into the database table. Tutorial - https://codehow2.com/laravel/how-to-run-a-controller-method-from-the-terminal-using-laravel-command.
+A controller, a model, a command and a migration for a new table. No front end. 
 
 # How To Use
 
